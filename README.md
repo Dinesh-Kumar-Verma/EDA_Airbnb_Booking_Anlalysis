@@ -14,8 +14,8 @@ Airbnb provides an alternative lodging option for travelers, offering a diverse 
 
 The following steps were followed in the EDA process:
 
-Data Loading
-Data Inspection
+* Data Loading
+* Data Inspection
 Variable Understanding
 Data Cleaning
 Summary Statistics of the data.
