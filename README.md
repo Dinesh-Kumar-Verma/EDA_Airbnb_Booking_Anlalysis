@@ -24,6 +24,7 @@ The following steps were followed in the EDA process:
 * Data Visulization and Storytelling
 * Solution to Business Objective
 * Conclusion.
+
 Key findings included the concentration of listings among a small number of hosts, with Manhattan having the highest percentage of listings. The analysis also highlighted the popularity of entire homes/apartments and private rooms over shared rooms. Manhattan emerged as the costliest location, while the Bronx offered more affordable options. There was a positive correlation between the number of reviews and reviews per month, indicating sustained popularity.
 
 Based on these conclusions, potential business solutions include diversifying hosts and listings, optimizing pricing strategies, enhancing the review and booking experience, expanding to underserved areas, strengthening host management, targeted marketing, and improving data transparency.
